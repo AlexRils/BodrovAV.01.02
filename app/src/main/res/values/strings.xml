@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BodrovAV.01.02</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="kal">Геометрический калькулятор</string>
+    <string name="loginenter">Введите логин</string>
+    <string name="passwordenter">Введите пароль</string>
+    <string name="registr">Начать</string>
+    <string name="vibor">Выбор Фигуры</string>
+    <string name="rez">Результат Вычислений</string>
+    <string name="zagl">Заглушка</string>
+
 </resources>
